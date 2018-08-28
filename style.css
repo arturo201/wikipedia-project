@@ -1,0 +1,39 @@
+body {
+    background: #202a3f;
+}
+
+.container-fluid {
+    margin-top: 200px;
+}
+
+.fa-search {
+    font-size: 20px;
+}
+
+.btn-default {
+    background: orange;
+    width: 100px;
+    padding: 12.5px;
+}
+
+.btn-default:hover {
+    background: #cc8500;
+}
+
+.form-control {
+    padding: 25px;
+    font-size: 20px;
+}
+
+
+.text {
+    text-align: center;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+a {
+    color: inherit;
+}
+
